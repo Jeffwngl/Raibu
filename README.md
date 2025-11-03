@@ -1,4 +1,4 @@
-# Raibu (In development)
+# (In development)
 Live coding environment based on Tidal Cycles.
 - Write and execute live music patterns directly in the browser.
 
